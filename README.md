@@ -8,7 +8,7 @@
     2. [Nama - NRP]
     3. [Nama - NRP]
     4. [Nama - NRP]
-* **Tech Stack**: [Bahasa Pemrograman, Framework, Tools yang digunakan]
+* **Tech Stack**: [Bahasa Pemrograman Java, Framework Construct 3]
 
 ## 2. Deskripsi Game
 
