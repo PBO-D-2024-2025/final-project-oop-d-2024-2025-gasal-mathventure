@@ -4,7 +4,7 @@
 ## 1. Informasi Umum
 * **Nama Game**: [Nama Game]
 * **Anggota Kelompok**:
-    1. [Nama - NRP]
+    1. [Alvin Zanua Putra - 5025231064]
     2. [Nama - NRP]
     3. [Nama - NRP]
     4. [Nama - NRP]
