@@ -4,11 +4,11 @@
 ## 1. Informasi Umum
 * **Nama Game**: [Nama Game]
 * **Anggota Kelompok**:
-    1. [Alvin Zanua Putra - 5025231064]
+    1. [Nama - NRP]
     2. [Nama - NRP]
     3. [Nama - NRP]
     4. [Nama - NRP]
-* **Tech Stack**: [Bahasa Pemrograman Java, Framework Construct 3]
+* **Tech Stack**: [Bahasa Pemrograman, Framework]
 
 ## 2. Deskripsi Game
 
